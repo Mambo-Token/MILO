@@ -1,7 +1,11 @@
 # MILO
 Mambo Initial Launch Offering - enabling probably the most fair token launches possible
 
-https://mambo.li/milo
+(We moved our activities from zilliqa to Kaspa in June 2024. 
+Since we currently no longer have an Automated fixed rates Exchange (swap) 
+we will make the token launches manually in Kaspa KRC-20 -until we have again a similar swap).
+
+https://mambo.li/archive/milo/
 
 MILO is Mambo Initial Launch Offering.
 Probably one of the most fair initial token offering possible.
